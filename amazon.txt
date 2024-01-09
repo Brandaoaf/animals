@@ -1,6 +1,12 @@
+===Raros===
 - onça pintada
 - boto rosa
 - tucano
 - tucunaré
+- mico dourado
 
-
+===Comuns===
+- mico
+- macaco
+- arara
+- sucuri
